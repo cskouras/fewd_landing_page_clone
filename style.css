@@ -425,11 +425,22 @@ td,
 th {
   padding: 0;
 }
-.topnavigation {
-  background-color:LightGray
+
 }
 .topnavigation > .content {
   width: 970px;
   height:70px;
   margin: 0 auto;
+  font-family: 'Roboto', sans-serif;
+  font-size: 16px;
+  color: #838994;
+  letter-spacing: 0.03em;
+
+}
+.links {
+  float:right;
+  display: inline-block;
+}
+.content {
+  padding: 0px 15px;
 }
